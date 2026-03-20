@@ -1,4 +1,4 @@
-Void is a minecraft 1.8.9 Client
+Void is a minecraft 1.8.9 Ghost Client
 
 
 Join our community!
